@@ -1,0 +1,12 @@
+ul{
+    list-style: none;
+}.users{
+    text-align: center;
+}
+.users li{
+    border-top: 1px solid black;
+    
+}
+img{
+    margin-top: 20px;
+}

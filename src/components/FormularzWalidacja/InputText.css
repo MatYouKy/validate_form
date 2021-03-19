@@ -1,0 +1,49 @@
+.input_value_area{
+    position:relative;
+    height: 80px;
+    
+}
+label{
+    margin: 5px 0 0 40px;
+    
+}
+.input_value{
+    display:block;
+    width: 100%;
+    margin: 5px auto;
+    border-radius: 5px;
+    padding:4px;
+}
+label[htmlFor="isConfirmed"]{
+    margin-top: 25px;
+    background-color: #fff;
+}
+input[type=checkbox]{
+    position:absolute;
+    display:block;
+    margin-left: 10px;
+    top: -2px;
+    border: 1px solid black;
+    height: 15px;
+    width: 15px;
+}
+.sign_in{
+    background: rgb(110, 172, 28);
+    border-radius: 10px;
+    border: 2px solid rgb(199, 118, 32);
+    display:block;
+    margin: 0 auto;
+    padding: 10px 15px;
+    transition: background .3s;
+}
+.sign_in:hover{
+    background: rgb(85, 133, 22);
+}
+
+p{
+    position:absolute;
+    font-size: 12px;
+    color: red;
+    margin: 0 auto;
+}
+

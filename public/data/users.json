@@ -1,0 +1,29 @@
+{
+    "users":[
+        {   
+            "username": "Mariano",
+            "name": "Marian",
+            "surname":"Johnson",
+            "email": "mp@example.pl",
+            "id":1,
+            "password": "123456789"
+        },
+        {
+            "username": "Zbych",
+            "name": "Zbyszek",
+            "surname":"Konczała", 
+            "email":"zk@example.pl",
+            "id":2,
+            "password": "987654321"
+        },
+
+        {
+            "username": "Muza",
+            "name": "Gienek",
+            "surname":"Muzal",
+            "email": "gm@example.pl",
+            "id":3,
+            "password": "aerhgaetrh"
+        }
+    ]
+}
